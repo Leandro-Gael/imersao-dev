@@ -1,0 +1,306 @@
+[
+  {
+    "nome": "TypeScript",
+    "descricao": "Um superconjunto de JavaScript que adiciona tipagem estática opcional, melhorando a escalabilidade e a manutenção do código.",
+    "data_criacao": "2012",
+    "link": "https://www.typescriptlang.org/",
+    "tags": [
+      "Linguagem de Programação",
+      "Frontend",
+      "Backend",
+      "Compilado"
+    ]
+  },
+  {
+    "nome": "Go (Golang)",
+    "descricao": "Uma linguagem de programação estaticamente tipada, projetada pelo Google para eficiência, concorrência e compilação rápida.",
+    "data_criacao": "2009",
+    "link": "https://go.dev/",
+    "tags": [
+      "Linguagem de Programação",
+      "Backend",
+      "Sistemas",
+      "Concorrência"
+    ]
+  },
+  {
+    "nome": "Kotlin",
+    "descricao": "Linguagem moderna e pragmática que roda na JVM e é a linguagem preferida para o desenvolvimento Android nativo.",
+    "data_criacao": "2011",
+    "link": "https://kotlinlang.org/",
+    "tags": [
+      "Linguagem de Programação",
+      "JVM",
+      "Android",
+      "Backend",
+      "Multiplataforma"
+    ]
+  },
+  {
+    "nome": "Rust",
+    "descricao": "Linguagem de programação focada em segurança, especialmente na segurança de memória, e alto desempenho, utilizada para sistemas operacionais e jogos.",
+    "data_criacao": "2010",
+    "link": "https://www.rust-lang.org/",
+    "tags": [
+      "Linguagem de Programação",
+      "Sistemas",
+      "Performance",
+      "Segurança"
+    ]
+  },
+  {
+    "nome": "Swift",
+    "descricao": "Linguagem de programação poderosa e intuitiva desenvolvida pela Apple para criar aplicativos para iOS, macOS, watchOS e tvOS.",
+    "data_criacao": "2014",
+    "link": "https://www.swift.org/",
+    "tags": [
+      "Linguagem de Programação",
+      "Mobile",
+      "iOS",
+      "Apple"
+    ]
+  },
+  {
+    "nome": "React",
+    "descricao": "Biblioteca JavaScript declarativa e eficiente para construir interfaces de usuário baseadas em componentes reutilizáveis.",
+    "data_criacao": "2013",
+    "link": "https://reactjs.org/",
+    "tags": [
+      "Biblioteca",
+      "Frontend",
+      "UI",
+      "Componentes"
+    ]
+  },
+  {
+    "nome": "Vue.js",
+    "descricao": "Framework JavaScript progressivo para a construção de interfaces de usuário e Single Page Applications (SPAs).",
+    "data_criacao": "2014",
+    "link": "https://vuejs.org/",
+    "tags": [
+      "Framework",
+      "Frontend",
+      "SPA",
+      "UI"
+    ]
+  },
+  {
+    "nome": "Angular",
+    "descricao": "Plataforma de desenvolvimento baseada em TypeScript para criar aplicações web escaláveis do lado do cliente (front-end).",
+    "data_criacao": "2016",
+    "link": "https://angular.io/",
+    "tags": [
+      "Framework",
+      "Frontend",
+      "TypeScript",
+      "SPA"
+    ]
+  },
+  {
+    "nome": "Node.js",
+    "descricao": "Um ambiente de execução JavaScript assíncrono e orientado a eventos que permite construir aplicações de rede escaláveis e de alta performance.",
+    "data_criacao": "2009",
+    "link": "https://nodejs.org/",
+    "tags": [
+      "Runtime",
+      "Backend",
+      "Servidor",
+      "I/O Não-Bloqueante"
+    ]
+  },
+  {
+    "nome": "Docker",
+    "descricao": "Plataforma para desenvolver, enviar e executar aplicações dentro de contêineres leves e portáteis.",
+    "data_criacao": "2013",
+    "link": "https://www.docker.com/",
+    "tags": [
+      "DevOps",
+      "Contêineres",
+      "Virtualização",
+      "Implantação"
+    ]
+  },
+  {
+    "nome": "Kubernetes",
+    "descricao": "Sistema de código aberto para automatizar a implantação, dimensionamento e gerenciamento de aplicações em contêineres.",
+    "data_criacao": "2014",
+    "link": "https://kubernetes.io/",
+    "tags": [
+      "Orquestração",
+      "DevOps",
+      "Contêineres",
+      "Nuvem"
+    ]
+  },
+  {
+    "nome": "PostgreSQL",
+    "descricao": "Sistema de gerenciamento de banco de dados objeto-relacional robusto e open source, conhecido por sua extensibilidade e conformidade SQL.",
+    "data_criacao": "1996",
+    "link": "https://www.postgresql.org/",
+    "tags": [
+      "Banco de Dados",
+      "SQL",
+      "Relacional",
+      "Open Source"
+    ]
+  },
+  {
+    "nome": "MongoDB",
+    "descricao": "Banco de dados NoSQL orientado a documentos, projetado para alta disponibilidade, escalabilidade e flexibilidade de esquema.",
+    "data_criacao": "2009",
+    "link": "https://www.mongodb.com/",
+    "tags": [
+      "Banco de Dados",
+      "NoSQL",
+      "Documentos",
+      "Escalabilidade"
+    ]
+  },
+  {
+    "nome": "Redis",
+    "descricao": "Banco de dados em memória, de código aberto, usado como cache, broker de mensagens e banco de dados primário chave-valor.",
+    "data_criacao": "2009",
+    "link": "https://redis.io/",
+    "tags": [
+      "Banco de Dados",
+      "Chave-Valor",
+      "Cache",
+      "Alto Desempenho"
+    ]
+  },
+  {
+    "nome": "Terraform",
+    "descricao": "Ferramenta de Infraestrutura como Código (IaC) que permite definir e provisionar infraestrutura em nuvem usando arquivos de configuração declarativos.",
+    "data_criacao": "2014",
+    "link": "https://www.terraform.io/",
+    "tags": [
+      "DevOps",
+      "IaC",
+      "Provisionamento",
+      "Nuvem",
+      "Ferramenta"
+    ]
+  },
+  {
+    "nome": "AWS Lambda",
+    "descricao": "Serviço de computação serverless da AWS que executa código em resposta a eventos sem a necessidade de gerenciar servidores.",
+    "data_criacao": "2014",
+    "link": "https://aws.amazon.com/lambda/",
+    "tags": [
+      "Serverless",
+      "Computação em Nuvem",
+      "Backend",
+      "FaaS"
+    ]
+  },
+  {
+    "nome": "Next.js",
+    "descricao": "Framework React de código aberto que permite renderização do lado do servidor (SSR), geração de sites estáticos (SSG) e desenvolvimento full-stack.",
+    "data_criacao": "2016",
+    "link": "https://nextjs.org/",
+    "tags": [
+      "Framework",
+      "Full Stack",
+      "React",
+      "SSR",
+      "Frontend"
+    ]
+  },
+  {
+    "nome": "Svelte",
+    "descricao": "Um framework de UI que compila o código em JavaScript Vanilla em tempo de build, resultando em pacotes menores e mais rápidos.",
+    "data_criacao": "2016",
+    "link": "https://svelte.dev/",
+    "tags": [
+      "Framework",
+      "Compilador",
+      "Frontend",
+      "UI"
+    ]
+  },
+  {
+    "nome": "GraphQL",
+    "descricao": "Uma linguagem de consulta e manipulação de dados para APIs, permitindo que os clientes solicitem exatamente os dados de que precisam.",
+    "data_criacao": "2015",
+    "link": "https://graphql.org/",
+    "tags": [
+      "Linguagem de Consulta",
+      "API",
+      "Backend",
+      "Dados"
+    ]
+  },
+  {
+    "nome": "Apache Kafka",
+    "descricao": "Uma plataforma distribuída de streaming de eventos de alto desempenho, usada para construir pipelines de dados em tempo real.",
+    "data_criacao": "2011",
+    "link": "https://kafka.apache.org/",
+    "tags": [
+      "Streaming",
+      "Mensageria",
+      "Processamento de Dados",
+      "Escalabilidade"
+    ]
+  },
+  {
+    "nome": "Spring Boot",
+    "descricao": "Framework que simplifica a criação de aplicações Spring autônomas, prontas para produção e baseadas em microsserviços.",
+    "data_criacao": "2014",
+    "link": "https://spring.io/projects/spring-boot",
+    "tags": [
+      "Framework",
+      "Backend",
+      "JVM",
+      "Microsserviços"
+    ]
+  },
+  {
+    "nome": "Git",
+    "descricao": "Sistema de controle de versão distribuído amplamente utilizado no desenvolvimento de software para rastrear alterações no código-fonte.",
+    "data_criacao": "2005",
+    "link": "https://git-scm.com/",
+    "tags": [
+      "Controle de Versão",
+      "DevOps",
+      "Ferramenta",
+      "Colaboração"
+    ]
+  },
+  {
+    "nome": "Flutter",
+    "descricao": "Um SDK de UI de código aberto do Google para criar aplicativos nativos, compilados a partir de uma única base de código para mobile, web e desktop.",
+    "data_criacao": "2017",
+    "link": "https://flutter.dev/",
+    "tags": [
+      "Framework",
+      "Mobile",
+      "Multiplataforma",
+      "Dart",
+      "Frontend"
+    ]
+  },
+  {
+    "nome": "Figma",
+    "descricao": "Uma ferramenta de design de interface colaborativa baseada em nuvem, usada para prototipagem e design de UI/UX.",
+    "data_criacao": "2016",
+    "link": "https://www.figma.com/",
+    "tags": [
+      "Design",
+      "UX/UI",
+      "Prototipagem",
+      "Ferramenta Colaborativa"
+    ]
+  },
+  {
+    "nome": "CI/CD (Continuous Integration/Continuous Delivery)",
+    "descricao": "Um conjunto de práticas e metodologias que automatizam e monitoram todo o ciclo de vida do desenvolvimento de software, desde a integração até a entrega.",
+    "data_criacao": "2006",
+    "link": "https://about.gitlab.com/topics/ci-cd/",
+    "tags": [
+      "Metodologia",
+      "DevOps",
+      "Automação",
+      "Entrega Contínua"
+    ]
+  }
+]
